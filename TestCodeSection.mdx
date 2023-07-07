@@ -1,0 +1,60 @@
+---
+title: Prueba de las lineas de codigo
+date: '2023-07-06'
+tags: [aprendiendo, nextjs , experiencia]
+cover: 'https://images.pexels.com/photos/276405/pexels-photo-276405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+preview: 'Es mi primer blog en el que abordare un poco del desarrollo del mismo'
+---
+
+# ¿Qué deberia hablar en este primer post?
+
+Esa ha sido mi pregunta mientras desarrollaba este blog durante varios dias.
+¿Que deberia hablar?, creo que esta y las proximas publicaciones serán mi diario
+de todo el proceso de aprendizaje y errores que he cometido en el proceso!
+
+## Primeros dias:
+
+Yendo un poco mas a lo conceptual, recientemente queria crear un portafolio para intentar hacerle notar al mercado laboral que existo.
+Pero al final decidi que era mejor idea hacer un lugar donde pueda expresarme libremente, explayarme todo lo que quiera y finalmente 
+hacerle notar al mundo, quien soy realmente!
+
+...
+
+```ts
+export default function PostPage ({ data }: InferGetStaticPropsType<typeof getStaticProps>) {
+
+  return (
+    <>
+      <section className='w-screen min-h-screen flex justify-center items-center bg-gray-800'>
+       <Head>
+        <title>{data.frontmatter.title as string}</title>
+        <meta name='description' content={`${data.frontmatter.meta?data.frontmatter.meta:data.frontmatter.title}`}/>
+      </Head>
+      <div className='w-[70%] min-h-screen inline-grid place-items-center grid-cols-1 m-10 border-2 border-white relative'>
+      {/* <div className='w-full h-full absolute right-4 bottom-4 border-2 border-blue-600 bg-purple-300 bg-opacity-20'></div> */}
+      <MDXRemote
+        {...data}
+        components={{
+          h1: H1,
+          h2:H2,
+          p: P,
+          img: img,
+          // blockquote:Cita
+        }}
+        />
+      </div>
+    </section>
+      <div className='w-full h-full flex items-center justify-center bg-slate-800'>
+      <Link href={'/blogs'} className='w-1/6 h-[5vh] bg-red-300 text-center flex justify-center items-center'>Inicio</Link>
+      </div>
+      </>
+  )
+}
+```
+
+
+## Test de IMG
+
+![imagen de test](https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+...
