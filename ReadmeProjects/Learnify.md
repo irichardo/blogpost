@@ -13,7 +13,7 @@ a platform used to finance courses through crowdfunding.
 - the buckets are deleted when there nobody apport them.
 - the buckets are releated  to the creator one to many 
 ## technologies used ✅
--Zustand
--typescript
--react
--authO
+- Zustand
+- typescript
+- react
+- authO
