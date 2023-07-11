@@ -8,7 +8,9 @@ a platform used to finance courses through crowdfunding.
 - Create bucket for crowdfunding
 - Aport some money for the crowdfunding
 - Pay tokens using paypal
+  
 ----------------------------------
+
 # About buckets
 - the buckets are deleted when there nobody apport them.
 - the buckets are releated  to the creator one to many 
