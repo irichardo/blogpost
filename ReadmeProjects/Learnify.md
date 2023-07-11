@@ -27,6 +27,4 @@ hacerle notar al mundo, quien soy realmente!
 
 ## Test de IMG
 
-![imagen de test](https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
 ...
