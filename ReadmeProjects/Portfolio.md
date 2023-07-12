@@ -1,21 +1,27 @@
-# Learnify 🎓
-### To install just use npm run dev ✨
-a platform used to finance courses through crowdfunding.
-- You can create users👍
-- Delete users
-- Change users
-- Ban users
-- Create bucket for crowdfunding
-- Aport some money for the crowdfunding
-- Pay tokens using paypal
-  
-----------------------------------
+# Portafolio-Devblog 🎓
 
-# About buckets
-- the buckets are deleted when there nobody apport them.
-- the buckets are releated  to the creator one to many 
+A portfolio made to show my projects consuming the github api and a repository to store md files.
+
+--------------------------
+## About Portfolio section
+- Consume api from github. 👍
+- You can see the Readme of all projects in UI interface as markdown.📑
+- Can send me e-mail for contact. 📫
+- Responsive. 📱
+
+----------------------------------
+## About Devblog section
+- Use Static params.
+- Clears the cache every 24 hours, to make the page dynamic.
+- Custom MDX.
+- Destructuring data from MDX.
+- Create tags from the MDX data.
+- Have dynamic tittle.
+- Use SSR for improve perfomance.
+
+-----------------------------------------
 ## technologies used ✅
-- Zustand
-- typescript
-- react
-- authO
+- nextJS
+- React
+- MDX - MD
+
