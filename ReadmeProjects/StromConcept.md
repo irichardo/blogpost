@@ -14,6 +14,8 @@ I saw a landing page made with wordpress and its responsive version, so I made a
 - Nextjs.
 - Tailwind.
 
+----------------------------------------------------------
+
 ### Deployment
 
 [StromConcept](https://strom-concept.vercel.app/)

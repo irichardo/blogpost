@@ -33,5 +33,5 @@ A portfolio made to show my projects consuming the github api and a repository t
 -----------------------------------------
 
 ## contact
-- https://www.linkedin.com/in/richardhd/
+- [Linkedin](https://www.linkedin.com/in/richardhd/)
 - richardhdhjob@gmail.com
