@@ -28,7 +28,7 @@ A portfolio made to show my projects consuming the github api and a repository t
 
 -----------------------------------------
 ## Status
-- Finished. ✅✅
+- Finished.
 
 -----------------------------------------
 
