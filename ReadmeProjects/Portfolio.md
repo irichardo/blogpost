@@ -22,6 +22,7 @@ A portfolio made to show my projects consuming the github api and a repository t
 -----------------------------------------
 ## technologies used ✅
 - nextJS.
+- typescript
 - React.
 - MDX - MD.
 
