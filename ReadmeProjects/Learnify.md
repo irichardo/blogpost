@@ -1,4 +1,4 @@
-![Learnify](https://acortar.link/Uvb97t)
+![Learnify](https://i.imgur.com/fZiD9WE.png)
 
 # Learnify 🎓
 ### To install just use npm run dev ✨
