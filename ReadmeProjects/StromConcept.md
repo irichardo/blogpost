@@ -6,7 +6,11 @@
 
 I saw a landing page made with wordpress and its responsive version, so I made an improved version of that design, more user friendly using my improved design knowledge.
 
+- improve UI.
+- Added Rensponsive version.
+
 ## TechUsed
 
-- nextjs
-- tailwind
+- Nextjs.
+- Tailwind.
+
