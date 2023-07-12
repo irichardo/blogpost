@@ -1,3 +1,5 @@
+![Learnify Preview](https://photos.google.com/search/_tra_/photo/AF1QipPrix558RC8pNrB6OmcCyumWekY8Pqka0PZGocP)
+
 # Learnify 🎓
 ### To install just use npm run dev ✨
 a platform used to finance courses through crowdfunding.
