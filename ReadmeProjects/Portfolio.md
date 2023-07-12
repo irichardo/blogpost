@@ -21,7 +21,18 @@ A portfolio made to show my projects consuming the github api and a repository t
 
 -----------------------------------------
 ## technologies used ✅
-- nextJS
-- React
-- MDX - MD
+- nextJS.
+- React.
+- MDX - MD.
 
+-----------------------------------------
+## Status
+- Finished. ✅✅
+
+-----------------------------------------
+
+## contact
+
+- https://www.linkedin.com/in/richardhd/
+
+- richardhdhjobs@gmail.com
