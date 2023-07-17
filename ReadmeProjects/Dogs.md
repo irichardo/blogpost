@@ -4,7 +4,7 @@ web app for consuming thedogapi, mi 1st project.
 
 # About dogs
 - Create an dog.
-- Delete dogs.
+- Delete dog.
 - Sort all dogs.
 - Find all dogs.
 - Filter.
